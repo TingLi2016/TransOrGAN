@@ -1,5 +1,5 @@
 # TransOrGAN
-#### The scripts listed above are used to reproduce the results for TransOrGAN study. Due to the size limitation at GitHub, the data and model information are provided by request.
+#### The scripts listed above are used to reproduce the results for TransOrGAN study. Due to the size limitation at GitHub, the data and model information are provided by request. To re-run these scripts, please make sure update the data and model path to your working directory.
 
 ### Function of the scripts:
 - generate_train_set.py and generate_test_set.py are used for generating transcriptomic profiles for the training and test set using TransOrgan.
